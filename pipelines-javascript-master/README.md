@@ -1,5 +1,5 @@
 # Sample NodeJS application for Azure Pipelines docs!
-[Image](https://user-images.githubusercontent.com/91682540/144322782-dea0e15f-974f-49ec-b827-745e689b3522.png)
+[Image](https://user-images.githubusercontent.com/91682540/144322782-dea0e15f-974f-49ec-b827-745e689b3522.png)/markdown
 
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
@@ -7,7 +7,7 @@ For more information on building JavaScript or NodeJS applications, see [JavaScr
 
 # Contributing
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a![Image](https://user-images.githubusercontent.com/91682540/144322750-bd92f7f3-e159-4591-a87e-231a1cd0d3eb.png)
+This project welcomes contributions and suggestions.  Most contributions require you to agree to a!
 
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
 the rights to use your contribution. For details, visit https://cla.microsoft.com.
